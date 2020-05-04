@@ -2,23 +2,60 @@ Pre-hardmode
 ============
 
 - [X] Patchwerk
+	- need: balls
+	- get: basic healer shit
 - [ ] The Grand Thunder Bird
+	- need: jew-wood armor
+	- get: good bow, hatchling staff
 - [ ] King Slime
+	- need: rope, any pew-pew
+	- get: bounce, satisfaction
 - [ ] Eye of Cthulhu
+	- need: pew, pew, more HP, potions
+	- get: demonite
 - [ ] Eater of Worlds
-- [ ] The Decree
+	- need: guns (or something that chan pierce)
+	- get: golins, meteor
 - [ ] The Queen Jellyfish
+	- need: depth diver
+	- get: tide hunter shite
+- [ ] The Decree
+	- need: two-level arena
+	- get: frosthunter armor, frigid pendant
 - [ ] Viscount
+	- need: zombie npc
+	- get: scythe, cane, guano gunner
 - [ ] Queen Bee
+	- need: space, hp
+	- get: honey, bee-nades, BEES
 - [ ] Dark Mage
+	- need: Eternia shit
+	- get: dungeon defender stuff
 - [ ] The Flaming Pumpkin
 - [ ] Skeletron
+	- need: pew, pew, better armor?
+	- get: dungeon
 - [ ] Corpse Bloom
-- [ ] Granite Energy Storm / The Buried Champion
+	- need: luck
+	- get: bloom guard? weed eater, satisfaction?
+- [ ] The Buried Champion
+	- need: marble biome, better armor
+	- get: wings!, trifeta-shot, champion's rebuttal
+- [ ] Granite Energy Storm
+	- need: granite, pew
+	- get: G R A N I T E   S H I T E
 - [ ] Zombie Piglin Brute
+	- need: wide arena
+	- get: M I N E C R A F T, sausbow, golden nuggets, blaze rods
 - [ ] Jensen, the Grand Harpy
+	- need: sky islands
+	- get: harpy staff, harpy gun
 - [ ] The Star Scouter
+	- need: space stuff, probably arena, star caller
+	- get: S P A C E
 - [ ] Wall of Flesh
+	- need: hell, arena
+	- get: hardmode, emblems, clockwork, pwnhammer
 
 Hardmode
 ========
