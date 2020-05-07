@@ -4,22 +4,22 @@ Pre-hardmode
 - [X] Patchwerk
 	- need: balls
 	- get: basic healer shit
-- [ ] The Grand Thunder Bird
+- [X] The Grand Thunder Bird
 	- need: jew-wood armor
 	- get: good bow, hatchling staff
-- [ ] King Slime
+- [X] King Slime
 	- need: rope, any pew-pew
 	- get: bounce, satisfaction
-- [ ] Eye of Cthulhu
+- [X] Eye of Cthulhu
 	- need: pew, pew, more HP, potions
 	- get: demonite
-- [ ] Eater of Worlds
+- [X] Eater of Worlds
 	- need: guns (or something that chan pierce)
 	- get: golins, meteor
-- [ ] The Queen Jellyfish
+- [X] The Queen Jellyfish
 	- need: depth diver
 	- get: tide hunter shite
-- [ ] The Decree
+- [X] The Decree
 	- need: two-level arena
 	- get: frosthunter armor, frigid pendant
 - [ ] Viscount
@@ -32,10 +32,10 @@ Pre-hardmode
 	- need: Eternia shit
 	- get: dungeon defender stuff
 - [ ] The Flaming Pumpkin
-- [ ] Skeletron
+- [x] Skeletron
 	- need: pew, pew, better armor?
 	- get: dungeon
-- [ ] Corpse Bloom
+- [X] Corpse Bloom
 	- need: luck
 	- get: bloom guard? weed eater, satisfaction?
 - [ ] The Buried Champion
