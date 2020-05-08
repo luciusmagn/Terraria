@@ -22,10 +22,10 @@ Pre-hardmode
 - [X] The Decree
 	- need: two-level arena
 	- get: frosthunter armor, frigid pendant
-- [ ] Viscount
+- [X] Viscount
 	- need: zombie npc
 	- get: scythe, cane, guano gunner
-- [ ] Queen Bee
+- [X] Queen Bee
 	- need: space, hp
 	- get: honey, bee-nades, BEES
 - [ ] Dark Mage
@@ -41,7 +41,7 @@ Pre-hardmode
 - [ ] The Buried Champion
 	- need: marble biome, better armor
 	- get: wings!, trifeta-shot, champion's rebuttal
-- [ ] Granite Energy Storm
+- [ ] Granite Energy StorX
 	- need: granite, pew
 	- get: G R A N I T E   S H I T E
 - [ ] Zombie Piglin Brute
